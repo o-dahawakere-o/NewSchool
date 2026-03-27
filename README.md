@@ -1,0 +1,2 @@
+# NewSchool
+NetSchool, но лучше.
